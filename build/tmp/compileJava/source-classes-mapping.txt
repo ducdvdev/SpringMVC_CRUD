@@ -1,0 +1,10 @@
+Controller/ProductController.java
+ Controller.ProductController
+Models/Product.java
+ Models.Product
+WebConfig/AppConfig.java
+ WebConfig.AppConfig
+Service/ProductService.java
+ Service.ProductService
+WebConfig/AppInit.java
+ WebConfig.AppInit
